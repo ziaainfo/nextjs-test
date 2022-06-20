@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "usman@email.com",
+      "password": "$2a$10$EkUS6MsIjundV2Xr3WJrYuiXEYa0G7batGcjbUwOR0h6LnLyVaufm",
+      "dob": "2022-06-16",
+      "id": 1
+    },
+    {
+      "email": "fasdf@email.comfaefasdfasd",
+      "password": "$2a$10$M5gaBz1Sv4SuS.beomdq7uvoxkhypVlS7jyb6QS.kyE9AfLHjjimW",
+      "dob": "2022-06-17",
+      "id": 2
+    },
+    {
+      "email": "shero@email.com",
+      "password": "$2a$10$qnLpz46ZjNGct9Igi57WneL.ZcFmo9FSoRItKmAoWbrAKJwFDQDaK",
+      "dob": "2022-06-02",
+      "id": 3
+    },
+    {
+      "email": "ali@email.com",
+      "password": "$2a$10$s18vKZl90JnbIMLSieF6Y.biGZy5/KKTHl48fD4x.WDsJiAIUxC.G",
+      "dob": "2022-06-10",
+      "id": 4
+    }
+  ]
+}

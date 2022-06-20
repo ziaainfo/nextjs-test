@@ -1,0 +1,29 @@
+@import "./mixings.scss";
+
+.backgroundClass {
+    background: url("../assets/login-bg.svg");
+}
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: "#ffffff";
+    border-radius: 5px;
+    height: 100vh;
+}
+.login {
+    height: auto;
+    width: 500px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+    @include for-size(phone-only) {
+        width: 95%;
+    }
+}
+.input {
+    color: aqua;
+}
